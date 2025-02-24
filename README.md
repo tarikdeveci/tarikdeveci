@@ -22,15 +22,9 @@ I am a passionate **full-stack developer** specializing in **AI-driven solutions
 ---
 
 ### 🚀 Featured Projects
-🔹 **[MuniGo](https://github.com/tarikdeveci/munigo)** - AI-powered municipal call center assistant & CRM system  
-🔹 **[Pull-It](https://github.com/tarikdeveci/pull-it)** - Social media platform with real-time engagement features  
-🔹 **[AtıkNakit](https://github.com/tarikdeveci/atiknakit)** - Fintech app for waste management & digital payments  
-
----
-
-### 📊 GitHub Stats & Activity
-![Tarik's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarikdeveci&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarikdeveci&layout=compact&theme=radical)
+🔹 **[MuniGo]** - AI-powered municipal call center assistant & CRM system  
+🔹 **[Pull-It]** - Social media platform with real-time engagement features  
+🔹 **[AtıkNakit](https://github.com/tarikdeveci/atiknakit)** - Waste Management app for municipalities  
 
 ---
 

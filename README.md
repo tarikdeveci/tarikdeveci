@@ -22,7 +22,7 @@ I am a passionate **full-stack developer** specializing in **AI-driven solutions
 ---
 
 ### 🚀 Featured Projects
-🔹 **[MuniGo]** - AI-powered municipal call center assistant & CRM system  
+🔹 **[MuniGo](https://github.com/Brand-Grow-Up)** - AI-powered municipal call center assistant & CRM system  
 🔹 **[Pull-It]** - Social media platform with real-time engagement features  
 🔹 **[AtıkNakit](https://github.com/atiknakit)** - Waste Management app for municipalities  
 

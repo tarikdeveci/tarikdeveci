@@ -29,7 +29,7 @@ I am a passionate **full-stack developer** specializing in **AI-driven solutions
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/tarikdeveci)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)]([https://linkedin.com/in/tarikdeveci](https://www.linkedin.com/in/tar%C4%B1k-deveci-27a5a81bb/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/tarikdeveci)
 
 ---

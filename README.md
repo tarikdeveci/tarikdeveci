@@ -4,7 +4,6 @@
 I am a passionate **full-stack developer** specializing in **AI-driven solutions, real-time communication systems, and scalable software architectures**. With expertise in both backend and frontend technologies, I focus on **AI-powered call center systems, customer interaction, and automation solutions**.
 
 ### 🌟 About Me
-- 🏗 **Co-Founder & Lead Developer of MuniGo** (AI-Powered Municipality Call Center & CRM System)
 - 🧠 Specialized in **AI-powered speech processing, NLP, and real-time communication**
 - 💻 Strong background in **React, Node.js, TypeScript, PostgreSQL, and Docker**
 - 🔍 Passionate about **building scalable AI-driven systems**

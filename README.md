@@ -1,36 +1,38 @@
-## 👋 Hi there, I'm Tarık Deveci!
+<div align="center">
 
-🚀 **AI-Powered Software Developer | Full-Stack & AI Technologies | Scalable Systems**  
-I am a passionate **full-stack developer** specializing in **AI-driven solutions, real-time communication systems, and scalable software architectures**. With expertise in both backend and frontend technologies, I focus on **AI-powered call center systems, customer interaction, and automation solutions**.
+# Tarık Deveci
 
-### 🌟 About Me
-- 🧠 Specialized in **AI-powered speech processing, NLP, and real-time communication**
-- 💻 Strong background in **React, Node.js, TypeScript, PostgreSQL, and Docker**
-- 🔍 Passionate about **building scalable AI-driven systems**
+### AI Product Engineer · Software Engineer · Builder
 
----
+I build systems that perceive, decide, and ship.
 
-### 🛠️ Technologies & Tools
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
+LLM pipelines, decision engines, full-stack products, mobile apps, and domain-specific AI systems.  
+Not just API integrations — I design the product, the architecture, and the pipeline around the intelligence.
 
----
+<br />
 
-### 🚀 Recent Engagements: Companies and Projects
-🔹 **[MuniGo](https://github.com/Brand-Grow-Up)** - AI-powered municipal call center assistant & CRM system  
-🔹 **[Pull-It](https://github.com/PULL-IT-tr)** - Social media platform with real-time engagement features  
-🔹 **[AtıkNakit](https://github.com/atiknakit)** - Waste Management app for municipalities  
+<a href="https://tarikdeveci-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/tarik-deveci/">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:tariikdevecii@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/tarikdeveci">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tar%C4%B1k-deveci-27a5a81bb/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/tarikdeveci)
+</div>
 
 ---
 
-🔥 **Let's build AI-powered & scalable solutions together!**
+## Currently building
+
+```txt
+SAM3 + QLoRA thesis          domain-specific object detection for construction sites
+LifeOS                       AI-powered personal operating system across web and mobile
+Octostra                     decision-intelligence engine with explainable prioritization
+PreventA                     process-safety intelligence based on HAZOP / LOPA methodology
+Ovri                         local-first companion robot concept with memory and personality

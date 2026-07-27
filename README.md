@@ -23,7 +23,7 @@
 <br />
 
 ```txt
-AI PRODUCT ENGINEER FROM ISTANBUL
+AI PRODUCT ENGINEER FROM İZMIR
 building real products at the edge of software, intelligence and decision systems
 ```
 
@@ -36,10 +36,10 @@ building real products at the edge of software, intelligence and decision system
 ```ts
 const tarik = {
   role: "AI Product Engineer",
-  location: "Istanbul, Türkiye",
+  location: "İzmir, Türkiye (open to İstanbul + remote)",
   mode: ["builder", "researcher", "product-minded engineer"],
   currentFocus: [
-    "SAM3 + QLoRA fine-tuning",
+    "SAM3 + LoRA fine-tuning",
     "AI-native productivity systems",
     "decision intelligence",
     "industrial safety software",
@@ -83,8 +83,8 @@ flowchart LR
     E --> E2["Industrial safety"]
     E --> E3["Hybrid RAG"]
 
-    F --> F1["Construction-site perception"]
-    F --> F2["QLoRA / LoRA"]
+    F --> F1["Bridge / structural damage segmentation"]
+    F --> F2["LoRA / PEFT"]
     F --> F3["Segmentation foundation model"]
 ```
 
@@ -102,7 +102,7 @@ flowchart LR
 LLM pipelines
 Hybrid RAG
 Decision engines
-QLoRA / LoRA
+LoRA / PEFT fine-tuning
 SAM3 / segmentation
 GPT API
 Hugging Face
@@ -217,20 +217,19 @@ Built from a real consulting need, not a fake demo idea.
 </td>
 <td width="50%" valign="top">
 
-### SAM3 + QLoRA thesis
+### SAM3 + LoRA thesis
 
-Fine-tuning a segmentation foundation model for construction-site object detection.
+Fine-tuning SAM3 with LoRA for bridge/structural damage segmentation on DACL10K.
 
 ```txt
 SAM3
-QLoRA
 LoRA
+PEFT
 PyTorch
 Hugging Face
-PEFT
 ```
 
-Domain: safety-critical construction-site perception.
+Domain: bridge & structural damage segmentation (0.56 mean IoU, 19 classes).
 
 </td>
 </tr>
@@ -248,7 +247,7 @@ MuniGo        ~80% TTS cost reduction
 Detay         1,000+ monthly emission records processed
 LifeOS        web + mobile AI productivity system
 Octostra      explainable decision pipeline, not black-box prioritization
-SAM3          domain-specific fine-tuning for construction-site safety
+SAM3          bridge/structural damage segmentation (DACL10K), 0.56 mean IoU
 ```
 
 ---
